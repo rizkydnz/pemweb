@@ -14,8 +14,8 @@ class SeoSeeder extends Seeder
     public function run(): void
     {
         Seo::create([
-            'title' => 'Sample SEO Title',
-            'description' => 'This is a sample SEO description.',
+            'title' => 'PemWeb',
+            'description' => 'This is a sample PemWeb description.',
             'keywords' => 'sample, seo, keywords',
             'canonical_url' => 'https://seo.com',
             'robots' => 'index, follow',
