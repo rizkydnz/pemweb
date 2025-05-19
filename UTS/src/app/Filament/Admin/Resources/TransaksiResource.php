@@ -21,7 +21,7 @@ class TransaksiResource extends Resource
     protected static ?string $navigationGroup = 'Produk';
     protected static ?string $navigationLabel = 'Transaksi';
     protected static ?string $breadcrumb = 'Transaksi';
-    protected static ?string $pluralLabel = 'Product Setting';
+    protected static ?string $pluralLabel = 'Transaksi';
 
 
     public static function form(Form $form): Form

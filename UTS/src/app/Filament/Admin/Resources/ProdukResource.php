@@ -21,7 +21,7 @@ class ProdukResource extends Resource
     protected static ?string $navigationGroup = 'Produk';
     protected static ?string $navigationLabel = 'Produk';
     protected static ?string $breadcrumb = 'Produk';
-    protected static ?string $pluralLabel = 'Product Setting';
+    protected static ?string $pluralLabel = 'Produk';
 
 
     public static function form(Form $form): Form
