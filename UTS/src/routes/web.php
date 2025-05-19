@@ -2,7 +2,6 @@
 
 use App\Livewire\ShowHomePage;
 use App\Livewire\ShowTransaksi;
-use App\Livewire\ShowPelanggan;
 use Illuminate\Support\Facades\Route;
 use Livewire\Livewire;
 
